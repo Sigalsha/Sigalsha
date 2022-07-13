@@ -1,4 +1,4 @@
-## Hi there 👋 I’m [Sigal](https://github.com/Sigalsha)
+## Hi there 👋 I’m [Sigal](https://sigalsha.github.io/portfolio/)
 <br/>
 
 ### Technologies :point_right:
